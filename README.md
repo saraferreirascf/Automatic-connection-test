@@ -23,7 +23,7 @@ Automatically opens the browser and redirect to the internet.nl connection test 
 
 ## With phantom.js:
 
-On the command line, it prints the test result and an image with the connection test results page is created (result.png).
+On command line, it prints the test result and an image with the connection test results page is created (result.png).
 
 1. Download phantom.js 
     > https://phantomjs.org/download.html
