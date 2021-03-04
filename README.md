@@ -19,8 +19,6 @@
     > node index
     
 
-## Python
-
 
 
 
