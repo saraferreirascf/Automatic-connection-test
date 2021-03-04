@@ -27,6 +27,9 @@ On command line, it prints the test result and an image with the connection test
 
 1. Download phantom.js 
     > https://phantomjs.org/download.html
+    or
+    > sudo apt install phantomjs
+
 2. Run [script2.js](https://github.com/saraferreirascf/Automatic-connection-test/blob/main/script2.js) in the path of phantomjs.exe
     > `phantomjs script2.js`
     
