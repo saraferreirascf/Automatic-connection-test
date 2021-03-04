@@ -1,6 +1,6 @@
 # Script for automatic internet connection from internet.nl
 
-## Javascript 
+## With node.js:
 1. Install node.js
     > $sudo apt install nodejs
 2. Install node.js package manager
@@ -17,6 +17,11 @@
 7. Save [script.js](https://github.com/saraferreirascf/Automatic-connection-test/blob/main/script.js) in the same location of npm package created in **4**
 8. Run script
     > node index
+
+## With phantom.js:
+1. Download phantom.js 
+    > https://phantomjs.org/download.html
+2. Run 
     
 
 
