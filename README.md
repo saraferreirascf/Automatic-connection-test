@@ -5,9 +5,9 @@
 Automatically opens the browser and redirect to the internet.nl connection test page.
 
 1. Install node.js
-    > `$sudo apt install nodejs`
+    > `sudo apt install nodejs`
 2. Install node.js package manager
-    > `$sudo apt install npm`
+    > `sudo apt install npm`
 
 3. Download additional component to work with prefered browser (recommended geckodriver)
     > https://github.com/mozilla/geckodriver/releases/
