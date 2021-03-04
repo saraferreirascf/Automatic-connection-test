@@ -14,7 +14,7 @@
     > npm init
 6.  Install selenium webdriver package
     > npm install selenium-webdriver
-7. Save **index.js** in the same location of npm package created in **4**
+7. Save [script.js](https://github.com/saraferreirascf/Automatic-connection-test/blob/main/script.js) in the same location of npm package created in **4**
 8. Run script
     > node index
     
