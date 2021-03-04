@@ -1,4 +1,4 @@
-# Script for automatic internet connection from internet.nl
+# Script for internet connection test from internet.nl
 
 ## With node.js:
 
